@@ -5,7 +5,7 @@
 ## Tasks
 
 ### 📷 Iamge
-#### 🌐 Image Emotion Recognition (In-the-Wild)
+#### 🌐 Open-world Image Emotion Recognition 
 ```
   Classification, Image Similarity Metric, Emotion Distribution, 
 ```
