@@ -76,7 +76,7 @@
   [[Paper](https://ieeexplore.ieee.org/document/9008797)]
 
 
-### 🌏 Emotion Image Editing
+### 🌏 Open-world Emotion Image Editing
 
 * [2021 TMM] **Emotion Attention-Aware Collaborative Deep Reinforcement Learning for Image Cropping**, Xiaoyan Zhang; Zhuopeng Li; Jianmin Jiang
   [[Paper](https://ieeexplore.ieee.org/document/9158370)]
