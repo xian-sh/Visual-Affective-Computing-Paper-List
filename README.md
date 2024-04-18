@@ -5,7 +5,7 @@
 ## Tasks
 
 ### 📷 Iamge
-#### 🌐 Open-world Image Emotion Recognition
+#### 🌐 Image Emotion Recognition (In-the-Wild)
 ```
   Classification, Image Similarity Metric, Emotion Distribution, 
 ```
@@ -28,7 +28,7 @@
 ### 🎬 Video
 
 
-#### Emotional Video Captioning
+#### 📝 Emotional Video Captioning
 
 * [2023 ACM MM] **Emotion-Prior Awareness Network for <u>Emotional Video Captioning</u>**, Peipei Song, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611726)]  [[Code](https://github.com/songpipi/EPAN)]
@@ -36,7 +36,7 @@
 
 
 
-#### Video Emotion Recognition
+#### ⚪️ Video Emotion Recognition (In-the-Lab.)
 
 * [2023 ACM MM] **ViPER: Video-based Perceiver for Emotion Recognition**, Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, Paolo Garza
   [[Paper](https://dl.acm.org/doi/10.1145/3551876.3554806)]
