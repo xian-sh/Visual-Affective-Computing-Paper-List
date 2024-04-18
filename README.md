@@ -124,15 +124,15 @@
 
 
 
-* [2023 CVPR] **MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
+* [2023 CVPR] [Microsoft/HKUST] **MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
   [[Paper](https://ieeexplore.ieee.org/document/10205008)]  [[Code](https://meta-portrait.github.io/)]
 
 
-* [2023 CVPR] **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang, Yu Deng, Zixin Yin, Heung-Yeung Shum, Baoyuan Wang 
+* [2023 CVPR] [Xiaobing.AI] **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang, Yu Deng, Zixin Yin, Heung-Yeung Shum, Baoyuan Wang 
   [[Paper](https://arxiv.org/pdf/2211.14506.pdf)]  [[Code](https://dorniwang.github.io/PD-FGC/)]
 
   
-* [2023 CVPR] **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li; Longhao Zhang; Dong Wang; Bin Zhao; Zhigang Wang; Mulin Chen; Bang Zhang; Zhongjian Wang; Liefeng Bo; Xuelong Li 
+* [2023 CVPR] [Shanghai AI Laboratory/Northwestern Polytechnical University] **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li; Longhao Zhang; Dong Wang; Bin Zhao; Zhigang Wang; Mulin Chen; Bang Zhang; Zhongjian Wang; Liefeng Bo; Xuelong Li 
   [[Paper](https://ieeexplore.ieee.org/document/10203662)]  [[Code](https://www.waytron.net/hidenerf/)]
 
   
