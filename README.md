@@ -91,7 +91,7 @@
 ### 😊 Micro Facial Expression Recognition 
 
 
-### 🕑 Talking Face Generation
+### 😊 Emotion-Image-based Talking Face Generation
 
 * [2022 TMM] **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, Sefik Emre Eskimez; You Zhang; Zhiyao Duan
   [[Paper](https://ieeexplore.ieee.org/document/9496264)]
@@ -115,5 +115,66 @@
 
 * [2023 ACM MM] **ViPER: Video-based Perceiver for Emotion Recognition**, Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, Paolo Garza
   [[Paper](https://dl.acm.org/doi/10.1145/3551876.3554806)]
+
+
+### 😊 Emotion-Video-based Talking Face Generation
+
+* [2023 AAAI] **StyleTalk: One-Shot Talking Head Generation with Controllable Speaking Styles**, Yifeng Ma1, Suzhen Wang, Zhipeng Hu, Changjie Fan, Tangjie Lv, Yu Ding, Zhidong Deng, Xin Yu
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25280)]  [[Code](https://github.com/FuxiVirtualHuman/styletalk)]
+
+
+
+* [2023 CVPR] **MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
+  [[Paper](https://ieeexplore.ieee.org/document/10205008)]  [[Code](https://meta-portrait.github.io/)]
+
+
+* [2023 CVPR] **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**,  
+  [[Paper]( )]  [[Code]( )]
+
+  
+* [2023 CVPR] **Defending Low-Bandwidth Talking Head Videoconferencing Systems From Real-Time Puppeteering Attacks**,  
+  [[Paper]( )]  [[Code]( )]
+
+  
+* [2023 CVPR] **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**,  
+  [[Paper]( )]  [[Code]( )]
+
+  
+* [2023 CVPR] **High-Fidelity and Freely Controllable Talking Head video Generation**,  
+  [[Paper]( )]  [[Code]( )]
+
+  
+* [2022 CVPR] **Expressive Talking Head Generation with Granular Audio-Visual Control**,  
+  [[Paper]( )]  [[Code]( )]
+
+  
+* [2022 CVPR] **Depth-Aware Generative Adversarial Network for Talking Head Video Generation**,  
+  [[Paper]( )]  [[Code]( )]
+
+
+* [2021 AAAI] **Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation**, Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16286)]  [[Code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)]
+
+
+* [2021 CVPR] **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing**,  
+  [[Paper]( )]  [[Code]( )]
+
+
+  
+* [2020 CVPR] **DAVD-Net: Deep Audio-Aided Video Decompression of Talking Heads**,  
+  [[Paper]( )]  [[Code]( )]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
