@@ -6,8 +6,9 @@
 
 ### Iamge
 #### Open-world Image Emotion Recognition
-
+```
   Classification, Image Similarity Metric, Emotion Distribution, 
+```
 
 * [2023 ACM MM] **Progressive Visual Content Understanding Network for <u>Image Emotion Classificatio</u>**, Jicai Pan, Shangfei Wang
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612186)]
