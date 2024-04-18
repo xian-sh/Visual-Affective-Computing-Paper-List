@@ -124,7 +124,7 @@
 
 
 
-* [2023 CVPR] [Microsoft/HKUST] **MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
+* [2023 CVPR] 🔖 [Microsoft/HKUST] 🔖**MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, 🔖Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
   [[Paper](https://ieeexplore.ieee.org/document/10205008)]  [[Code](https://meta-portrait.github.io/)]
 
 
