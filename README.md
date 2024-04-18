@@ -20,9 +20,9 @@
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612040)]
 
 
-#### 😉 Macro Facial Expression Recognition
+#### 😊 Macro Facial Expression Recognition
 
-#### 😉 Micro Facial Expression Recognition 🔥
+#### 😊 Micro Facial Expression Recognition 
 
 ------------------------------------------------------------------
 ### 🎬 Video
