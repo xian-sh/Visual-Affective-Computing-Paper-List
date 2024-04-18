@@ -4,7 +4,7 @@
 
 ## Tasks
 
-### Iamge
+### 📷 Iamge
 #### Open-world Image Emotion Recognition
 ```
   Classification, Image Similarity Metric, Emotion Distribution, 
@@ -24,7 +24,7 @@
 
 
 ------------------------------------------------------------------
-### Video
+### 🎬 Video
 
 
 #### Emotional Video Captioning
