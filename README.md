@@ -18,6 +18,9 @@
 * [2023 ACM MM] 🔖 [Institute of Automation, China] 🔖 **Sensing Micro-Motion Human Patterns using Multimodal mmRadar and Video Signal for Affective and Psychological Intlligence**, Yiwei Ru, Peipei Li, Muyi Sun, Yunlong Wang, Kunbo Zhang, Qi Li, Zhaofeng He, Zhenan Sun
   [[Paper](https://dl.acm.org/doi/10.1145/3581783.3611754)]  [[Code]()]
 
+* [2023 TAC] 🔖 🔖 **ASpontaneous Driver Emotion Facial Expression(DEFE) Dataset for Inteligent Vehicles: Emotions Triggered by Video-Aludio Clips in Driving Scenarios**, Wenbo Li; Yaodong Cui; Yintao Ma; Xingxin Chen; Guofa Li; Guanzhong Zeng; Gang Guo; Dongpu Cao 
+  [[Paper](https://ieeexplore.ieee.org/document/9368972)] 
+  
 * [2021 ACM MM] 🔖 [Alibaba Group, China] 🔖 **Pairwise Emotional Relationship Recognition in Drama Videos: Dataset and Benchmark**, Xun Gao, Yin Zhao, Jie Zhang, jun Cai
   [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475493)]  [[Code]()]
 
@@ -123,6 +126,25 @@
 
 
 
+    
+
+   
+
+    
+
+    
+
+
+    
+
+    
+
+    
+
+  
+
+
+
 ### 🌏 Open-world Emotional Video Captioning
 
 * [2023 ACM MM] 🔖 🔖 **Emotion-Prior Awareness Network for Emotional Video Captioning**, Peipei Song, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang
@@ -132,21 +154,33 @@
   [[Paper](https://dl.acm.org/doi/10.1145/3581783.3613784)]  [[Code](https://github.com/ravikiranrao/MTCLAR-FSL)]
   
 
-### 🌏 Open-world Video Emotion Recognition 
-
+### 🌏 Video Emotion Recognition 
+  
 * [2022 ACM MM] 🔖 [University of Chinese Academy of Sciences, China] 🔖 **Feeling Without Sharing: A Federated Video Emotion Recognition Framework Via Privacy-Agnostic Hybrid Aggregation**, Fan Qi, Zixin Zhang, Xianshan Yang, Huaiwen Zhang, Changsheng Xu
   [[Paper](https://dl.acm.org/doi/10.1145/3503161.3548278)]
   
 * [2022 ACM MM] 🔖 [University of Science and Technology of China] 🔖 **Representation Learning through Multimodal Attention and Time-SyncComments for Affective Video Content Analysis**,  Jicai Pan, Shangfei Wang, Lin Fang
   [[Paper](https://dl.acm.org/doi/10.1145/3503161.3548018)] 
 
+* [2022 TAC] 🔖 [Technology and Research (ASTAR), Singapore] 🔖 **Exploring the Contextual Factors Affecting Multimodal Emotion Recognition in Videos**, Prasanta Bhattacharya , Raj Kumar Gupta , and Yinping Yang
+   [[Paper](https://ieeexplore.ieee.org/document/9397275)]
+
+* [2022 TAC] 🔖 [University of Science and Technology of China] 🔖 **Affective video Content Analysis via Multimodal Deep Quality Embedding Network**, Yaochen Zhu; Zhenzhong Chen; Feng Wu
+  [[Paper](https://ieeexplore.ieee.org/document/9122566)]
+  
 * [2021 ACM MM] 🔖 [Peng Cheng Laboratory, China] 🔖 **Zero-shot Video Emotion Recognition via Multimodal Protagonist-aware Transformer Network**, Fan Qi, Xiaoshan Yang, Changsheng Xu
   [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475647)]
-  
+
+* [2021 TAC] 🔖 [Rensselaer Polytechnic Institute, USA] 🔖 **Video Affective Content Analysis by Exploring Domain Knowledge**, Shangfei Wang; Can Wang; Tanfang Chen; Yaxin Wang; Yangyang Shu; Qiang Ji
+  [[Paper](https://ieeexplore.ieee.org/document/8697096)]
+
+
 * [2020 AAAI] 🔖 [Nankai University, China] 🔖 **An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos**, Sicheng Zhao, Yunsheng Ma, Yang Gu, Jufeng Yang, Tengfei Xing, Pengfei Xu, Runbo Hu, Hua Chai, Kurt Keutzer
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5364)] [[Code](https://github.com/maysonma/VAANet)]
 
-
+* [2019 TAC] 🔖 [Rensselaer Polytechnic Institut, China]🔖 **Content-Based Video Emotion Tagging Augmented by Users' Multiple Physiological Responses**, Shangfei Wang; Shiyu Chen; Qiang Ji
+  [[Paper](https://ieeexplore.ieee.org/document/7922503)]
+  
 * [2019 Information Fusion] 🔖 [Xidian University, China] 🔖 **Affective video content analysis based on multimodal data fusion in heterogeneous networks**, Jie Guo, Bin Song,∗, Peng Zhang, Mengdi Ma, Wenwen Luo, Junmei lv
   [[Paper](https://doi.org/10.1016/j.inffus.2019.02.007)] 
 
@@ -158,14 +192,22 @@
 
  
 
-### 🌏 Open-world Video Emotion Spotting
+### 🌏 Video Emotion Spotting
 
 * [2023 CVPR] 🔖 [ankai University] 🔖 **Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network**, Zhicheng Zhang; Lijuan Wang; Jufeng Yang
   [[Paper](https://ieeexplore.ieee.org/document/10203999)] [[Code](https://github.com/nku-zhichengzhang/WECL)]
 
 * [2022 ACM MM] 🔖 [Zhejiang University, China] 🔖 **Dilated Context Integrated Network with Cross-Modal Consensus for Temporal motion Localization in Videos**, juncheng Li, Junlin Xie, Linchao Zhu, Long Qian, Siliang Tang, Wenqiao Zhang, Haochen Shi, Shengyu Zhang, Longhui Wei, Qi Tian, Yueting Zhuang 
   [[Paper](https://dl.acm.org/doi/10.1145/3503161.3547886)]  [[Code](https://github.com/YYJMJC/Temporal-Emotion-Localization-in-Videos)]
+
+### 🌏 Emotional Video Summarization 
+
+* [2023 TAC] 🔖 [Hasan Kalyoncu University, Gaziantep] 🔖 **Use of Affective Visual lnformation for Summarization of Human-Centric Videos**, Berkay Köprü; Engin Erzin
+  [[Paper](https://ieeexplore.ieee.org/document/7945502)]
   
+* [2021 TAC] 🔖 [Singapore Management University, Singapore] 🔖 **EEG-Video Emotion-Based Summarization: Learning With EEG Auxiliary Signals**, Wai-Cheong Lincoln Lew; Di Wang; Kai Keng Ang; Joo-Hwee Lim; Chai Quek; Ah-Hwee Tan
+  [[Paper](https://ieeexplore.ieee.org/document/9896953)] 
+
 ### 😊 Video-based Facial Emotion Recognition
 
 * [2023 ACM MM] 🔖 [Politecnico di Torino, Italy] 🔖 **ViPER: Video-based Perceiver for Emotion Recognition**, Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, Paolo Garza
@@ -173,11 +215,16 @@
 
 * [2023 ACM MM] 🔖 [Fudan University, China] 🔖 **Freq-HD: An Interpretable Frequency-based High-Dynamics Affective Clip Selection Method for in-the-Wild Facial Expression Recognition in Videos**,  Zeng Tao, Yan Wang, Zhaoyu Chen, Boyang Wang, Shaoqi Yan, Kaixun Jiang, Shuyong Gao, Wenqiang Zhang
   [[Paper](https://dl.acm.org/doi/10.1145/3581783.3611972)] 
-  
+
+* [2021 TAC] 🔖 [Beihang University, China] 🔖 **Spatio-Temporal Encoder-Decoder Fully Convolutional Network for Video-Based Dimensional Emotion Recognition**, Zhengyin Du; Suowei Wu; Di Huang; Weixin Li; Yunhong Wang
+  [[Paper](https://ieeexplore.ieee.org/document/8827932)]
+
 * [2020 AAAI] 🔖 [The Hong Kong University of Science and Technology, Kowloon, HK] 🔖 **MIMAMO Net: Integrating Micro- and Macro-Motion for Video Emotion Recognition**, Didan Deng, Zhaokang Chen, Yuqian Zhou, Bertram Shi
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5646)] [[Code](https://github.com/wtomin/MIMAMO-Net)]
 
-
+* [2019 TAC] 🔖 [Hasan Kalyoncu University, Gaziantep] 🔖 **Audio-Visual Emotion Recognition in Video Clips**, Fatemeh Noroozi; Marina Marjanovic; Angelina Njegus; Sergio Escalera; Gholamreza Anbarjafari
+  [[Paper](https://ieeexplore.ieee.org/document/7945502)]
+  
 
 ### 😊 Video-based Facial Emotion Editing  
 * [2023 CVPR] 🔖 [National Technical University of Athens, Greece] 🔖 **Neural Emotion Director: Speech-preserving semantic control of facial expressions in "in-the-wild"videos**, Foivos Paraperas Papantoniou; Panagiotis P. Filntisis; Petros Maragos; Anastasios Roussos
@@ -208,7 +255,6 @@
   
 * [2023 CVPR] 🔖 [Microsoft Research] 🔖 **High-Fidelity and Freely Controllable Talking Head video Generation**, Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu 
   [[Paper](https://ieeexplore.ieee.org/document/10204552)] 
-
 
 
 * [2022 CVPR] 🔖 [Department of Computer Vision Technology (VIS), Baidu Inc.] 🔖 **Expressive Talking Head Generation with Granular Audio-Visual Control**, Borong Liang; Yan Pan; Zhizhi Guo; Hang Zhou; Zhibin Hong; Xiaoguang Han; Junyu Han; Jingtuo Liu; Errui Ding; Jingdong Wang 
