@@ -1,7 +1,7 @@
 # Visual Affective Computing Survey
 
 --------------------------------------------------------------
-## 🔥 Reviews
+## 📖 Reviews
 
 * [2022 TPAMI] **Affective Image Content Analysis: Two Decades Review and New Perspectives**, Sicheng Zhao; Xingxu Yao; Jufeng Yang; Guoli Jia; Guiguang Ding; Tat-Seng Chua; Björn W. Schuller; Kurt Keutzer
   [[Paper](https://ieeexplore.ieee.org/document/9472932)]
