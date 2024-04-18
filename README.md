@@ -8,7 +8,7 @@
 
 
 --------------------------------------------------------------
-## 📷 Iamge Tasks
+## 📷 Image Tasks
 ### 🌏 Open-world Image Emotion Classification
 ```
   Classification, Image Similarity Metric, Emotion Distribution, 
