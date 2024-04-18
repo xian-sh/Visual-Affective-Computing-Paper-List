@@ -2,10 +2,8 @@
 
 
 
-## Tasks
-
-### 📷 Iamge
-#### 🌐 Open-world Image Emotion Classification
+## 📷 Iamge Tasks
+### 🌐 Open-world Image Emotion Classification
 ```
   Classification, Image Similarity Metric, Emotion Distribution, 
 ```
@@ -31,7 +29,7 @@
 
 
 
-#### 🌐 Open-world Emotion Image Captioning
+### 🌐 Open-world Emotion Image Captioning
 
 * [2022 CVPR] **It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection**, Mohamed, Youssef; Khan, Faizan Farooq; Haydarov, Kilichbek; Elhoseiny, Mohamed
   [[Paper](https://ieeexplore.ieee.org/document/9878621)] [[Code](https://www.artemisdataset-v2.org/)]
@@ -47,7 +45,7 @@
 * [2019 ACM MM] **Towards Increased Accessibility of Meme Images with the Help of Rich Face Emotion Captions**, K R Prajwal, C V Jawahar, Ponnurangam Kumaraguru
   [[Paper](https://dl.acm.org/doi/10.1145/3343031.3350939)] [[Code](http://precog.iiitd.edu.in/research/social-media-4-all)]
   
-#### 🌐 Open-world Emotion Image Retrieval
+### 🌐 Open-world Emotion Image Retrieval
 
 * [2020 ACM MM] **Attention-Aware Polarity Sensitive Embedding for Affective Image Retrieval**, Sicheng Zhao, Yaxian Li, Xingxu Yao, Weizhi Nie, Pengfei Xu, Jufeng Yang, Kurt Keutzer
   [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413776)]
@@ -57,19 +55,19 @@
   [[Paper](https://ieeexplore.ieee.org/document/9008797)]
 
 
-#### 😊 Macro Facial Expression Recognition
+### 😊 Macro Facial Expression Recognition
 
 * [2020 IJCNN] **Emotion Recognition from Face Images in an Unconstrained Environment for usage on Social Robots**, Nicola Webb; Ariel Ruiz-Garcia; Mark Elshaw; Vasile Palade
   [[Paper](https://ieeexplore.ieee.org/document/9207494)]
 
   
-#### 😊 Micro Facial Expression Recognition 
+### 😊 Micro Facial Expression Recognition 
 
 ------------------------------------------------------------------
-### 🎬 Video
+## 🎬 Video Tasks
 
 
-#### 📝 Emotional Video Captioning
+### 📝 Emotional Video Captioning
 
 * [2023 ACM MM] **Emotion-Prior Awareness Network for <u>Emotional Video Captioning</u>**, Peipei Song, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611726)]  [[Code](https://github.com/songpipi/EPAN)]
@@ -77,7 +75,7 @@
 
 
 
-#### ⚪️ Video Emotion Recognition (In-the-Lab.)
+### ⚪️ Video Emotion Recognition (In-the-Lab.)
 
 * [2023 ACM MM] **ViPER: Video-based Perceiver for Emotion Recognition**, Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, Paolo Garza
   [[Paper](https://dl.acm.org/doi/10.1145/3551876.3554806)]
