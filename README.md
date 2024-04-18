@@ -7,6 +7,14 @@
   [[Paper](https://ieeexplore.ieee.org/document/9472932)]
 
 
+## 📊 Datasets
+
+* [2023 CVPR] 🔖 [] 🔖 **iMiGUE: An ldentity-Free Video Dataset for Micro-Gesture Understanding and Emotion Analysis**,
+  [[Paper]()] [[Code]()]
+
+* [2023 Information Fusion] 🔖 [Singapore University of Technology and Design] 🔖 **EmoMV: Affective music-video correspondence learning datasets for classification and retrieval**, Ha Thi Phuong Thao, Gemma Roig, Dorien Herremans 
+  [[Paper](https://doi.org/10.1016/j.inffus.2022.10.002)] [[Code](https://github.com/ivyha010/EmoMV)]
+  
 --------------------------------------------------------------
 ## 📷 Image Tasks
 ### 🌏 Open-world Image Emotion Classification
@@ -84,8 +92,6 @@
 
 ### 😊 Macro Facial Expression Recognition
 
-* [2020 IJCNN] **Emotion Recognition from Face Images in an Unconstrained Environment for usage on Social Robots**, Nicola Webb; Ariel Ruiz-Garcia; Mark Elshaw; Vasile Palade
-  [[Paper](https://ieeexplore.ieee.org/document/9207494)]
 
   
 ### 😊 Micro Facial Expression Recognition 
@@ -103,62 +109,90 @@
 ## 🎬 Video Tasks
 
 
-### 📝 Emotional Video Captioning
+### 🌏 Open-world Emotional Video Captioning
 
-* [2023 ACM MM] **Emotion-Prior Awareness Network for <u>Emotional Video Captioning</u>**, Peipei Song, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang
+* [2023 ACM MM] 🔖 🔖 **Emotion-Prior Awareness Network for Emotional Video Captioning**, Peipei Song, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611726)]  [[Code](https://github.com/songpipi/EPAN)]
 
 
+### 🌏 Open-world Video Emotion Recognition 
+
+* [2020 AAAI] 🔖 [Nankai University, China] 🔖 **An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos**, Sicheng Zhao, Yunsheng Ma, Yang Gu, Jufeng Yang, Tengfei Xing, Pengfei Xu, Runbo Hu, Hua Chai, Kurt Keutzer
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5364)] [[Code](https://github.com/maysonma/VAANet)]
 
 
-### ⚪️ Video Emotion Recognition (In-the-Lab.)
+* [2019 Information Fusion] 🔖 [Xidian University, China] 🔖 **ffective video content analysis based on multimodal data fusion in heterogeneous networks**, Jie Guo, Bin Song,∗, Peng Zhang, Mengdi Ma, Wenwen Luo, Junmei lv
+  [[Paper](https://doi.org/10.1016/j.inffus.2019.02.007)] 
 
-* [2023 ACM MM] **ViPER: Video-based Perceiver for Emotion Recognition**, Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, Paolo Garza
+
+
+ 
+
+### 🌏 Open-world Video Emotion Spotting
+
+* [2023 CVPR] 🔖 [ankai University] 🔖 **Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network**, Zhicheng Zhang; Lijuan Wang; Jufeng Yang
+  [[Paper](https://ieeexplore.ieee.org/document/10203999)] [[Code](https://github.com/nku-zhichengzhang/WECL)]
+
+  
+### 😊 Video-based Facial Emotion Recognition
+
+* [2023 ACM MM] 🔖 🔖 **ViPER: Video-based Perceiver for Emotion Recognition**, Lorenzo Vaiani, Moreno La Quatra, Luca Cagliero, Paolo Garza
   [[Paper](https://dl.acm.org/doi/10.1145/3551876.3554806)]
 
+* [2020 AAAI] 🔖 [The Hong Kong University of Science and Technology, Kowloon, HK] 🔖 **MIMAMO Net: Integrating Micro- and Macro-Motion for Video Emotion Recognition**, Didan Deng, Zhaokang Chen, Yuqian Zhou, Bertram Shi
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5646)] [[Code](https://github.com/wtomin/MIMAMO-Net)]
+
+
+
+### 😊 Video-based Facial Emotion Editing  
+* [2023 CVPR] 🔖 [National Technical University of Athens, Greece] 🔖 **Neural Emotion Director: Speech-preserving semantic control of facial expressions in "in-the-wild"videos**, Foivos Paraperas Papantoniou; Panagiotis P. Filntisis; Petros Maragos; Anastasios Roussos
+  [[Paper](https://ieeexplore.ieee.org/document/9880027)] [[Code](https://foivospar.github.io/NED/)]
 
 ### 😊 Emotion-Video-based Talking Face Generation
 
-* [2023 AAAI] **StyleTalk: One-Shot Talking Head Generation with Controllable Speaking Styles**, Yifeng Ma1, Suzhen Wang, Zhipeng Hu, Changjie Fan, Tangjie Lv, Yu Ding, Zhidong Deng, Xin Yu
+* [2023 AAAI] 🔖 [THUAI] 🔖 **StyleTalk: One-Shot Talking Head Generation with Controllable Speaking Styles**, Yifeng Ma1, Suzhen Wang, Zhipeng Hu, Changjie Fan, Tangjie Lv, Yu Ding, Zhidong Deng, Xin Yu
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25280)]  [[Code](https://github.com/FuxiVirtualHuman/styletalk)]
 
+* [2023 CVPR] 🔖 [BNRist and school of software, Tsinghua University] 🔖 **Audio-Driven Emotional Video Portraits**, Xinya Ji; Hang Zhou; Kaisiyuan Wang; Wayne Wu; Chen Change Loy; Xun Cao; Feng Xu
+  [[Paper](https://ieeexplore.ieee.org/document/9578513)] [[Code](https://jixinya.github.io/projects/evp/)]
 
-
-* [2023 CVPR] 🔖 [Microsoft/HKUST] 🔖**MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, 🔖Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
+* [2023 CVPR] 🔖 [Microsoft/HKUST] 🔖**MetaPortrait: ldentity-Preserving Talking Head Generation with Fast Personalized Adaptation**, Bowen Zhang, Chenyang Qi, Pan Zhang1 Bo Zhang, HsiangTao Wu, Dong Chen, Qifeng Chen, Yong Wang, Fang Wen 
   [[Paper](https://ieeexplore.ieee.org/document/10205008)]  [[Code](https://meta-portrait.github.io/)]
 
 
-* [2023 CVPR] [Xiaobing.AI] **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang, Yu Deng, Zixin Yin, Heung-Yeung Shum, Baoyuan Wang 
+* [2023 CVPR] 🔖 [Xiaobing.AI] 🔖 **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang, Yu Deng, Zixin Yin, Heung-Yeung Shum, Baoyuan Wang 
   [[Paper](https://arxiv.org/pdf/2211.14506.pdf)]  [[Code](https://dorniwang.github.io/PD-FGC/)]
 
   
-* [2023 CVPR] [Shanghai AI Laboratory/Northwestern Polytechnical University] **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li; Longhao Zhang; Dong Wang; Bin Zhao; Zhigang Wang; Mulin Chen; Bang Zhang; Zhongjian Wang; Liefeng Bo; Xuelong Li 
+* [2023 CVPR] 🔖 [Shanghai AI Laboratory/Northwestern Polytechnical University] 🔖 **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li; Longhao Zhang; Dong Wang; Bin Zhao; Zhigang Wang; Mulin Chen; Bang Zhang; Zhongjian Wang; Liefeng Bo; Xuelong Li 
   [[Paper](https://ieeexplore.ieee.org/document/10203662)]  [[Code](https://www.waytron.net/hidenerf/)]
 
   
-* [2023 CVPR] [Microsoft Research] **High-Fidelity and Freely Controllable Talking Head video Generation**, Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu 
+* [2023 CVPR] 🔖 [Microsoft Research] 🔖 **High-Fidelity and Freely Controllable Talking Head video Generation**, Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu 
   [[Paper](https://ieeexplore.ieee.org/document/10204552)] 
 
-  
-* [2022 CVPR] **Expressive Talking Head Generation with Granular Audio-Visual Control**,  
-  [[Paper]( )]  [[Code]( )]
+
+
+* [2022 CVPR] 🔖 [Department of Computer Vision Technology (VIS), Baidu Inc.] 🔖 **Expressive Talking Head Generation with Granular Audio-Visual Control**, Borong Liang; Yan Pan; Zhizhi Guo; Hang Zhou; Zhibin Hong; Xiaoguang Han; Junyu Han; Jingtuo Liu; Errui Ding; Jingdong Wang 
+  [[Paper](https://ieeexplore.ieee.org/document/9878472)] 
 
   
-* [2022 CVPR] **Depth-Aware Generative Adversarial Network for Talking Head Video Generation**,  
-  [[Paper]( )]  [[Code]( )]
+* [2022 CVPR] 🔖 [HKUST] 🔖 **Depth-Aware Generative Adversarial Network for Talking Head Video Generation**, Fa-Ting Hong; Longhao Zhang; Li Shen; Dan Xu 
+  [[Paper](https://ieeexplore.ieee.org/document/9879781)]  [[Code](https://github.com/harlanhong/CVPR2022-DaGAN)]
 
 
-* [2021 AAAI] **Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation**, Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan
+* [2021 AAAI] 🔖 [Netease Fuxi AI Lab] 🔖 **Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation**, Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16286)]  [[Code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)]
 
 
-* [2021 CVPR] **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing**,  
-  [[Paper]( )]  [[Code]( )]
-
+* [2021 CVPR] 🔖 [NVIDIA Corporation] 🔖 **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing**, Ting-Chun Wang, Arun Mallya, Ming-Yu Liu 
+  [[Paper](https://ieeexplore.ieee.org/document/9578110)]  [[Code](https://nvlabs.github.io/face-vid2vid)]
 
   
-* [2020 CVPR] **DAVD-Net: Deep Audio-Aided Video Decompression of Talking Heads**,  
-  [[Paper]( )]  [[Code]( )]
+* [2020 CVPR] 🔖 [McMaster University] 🔖 **DAVD-Net: Deep Audio-Aided Video Decompression of Talking Heads**, Xi Zhang; Xiaolin Wu; Xinliang Zhai; Xianye Ben; Chengjie Tu 
+  [[Paper](https://ieeexplore.ieee.org/document/9156859)] 
+
+.....
 
 
 
