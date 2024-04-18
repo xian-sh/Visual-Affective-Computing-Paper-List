@@ -3,7 +3,7 @@
 
 
 ## 📷 Iamge Tasks
-### 🌐 Open-world Image Emotion Classification
+### 🌏 Open-world Image Emotion Classification
 ```
   Classification, Image Similarity Metric, Emotion Distribution, 
 ```
@@ -29,7 +29,7 @@
 
 
 
-### 🌐 Open-world Emotion Image Captioning
+### 🌏 Open-world Emotion Image Captioning
 
 * [2022 CVPR] **It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection**, Mohamed, Youssef; Khan, Faizan Farooq; Haydarov, Kilichbek; Elhoseiny, Mohamed
   [[Paper](https://ieeexplore.ieee.org/document/9878621)] [[Code](https://www.artemisdataset-v2.org/)]
@@ -45,7 +45,7 @@
 * [2019 ACM MM] **Towards Increased Accessibility of Meme Images with the Help of Rich Face Emotion Captions**, K R Prajwal, C V Jawahar, Ponnurangam Kumaraguru
   [[Paper](https://dl.acm.org/doi/10.1145/3343031.3350939)] [[Code](http://precog.iiitd.edu.in/research/social-media-4-all)]
   
-### 🌐 Open-world Emotion Image Retrieval
+### 🌏 Open-world Emotion Image Retrieval
 
 * [2020 ACM MM] **Attention-Aware Polarity Sensitive Embedding for Affective Image Retrieval**, Sicheng Zhao, Yaxian Li, Xingxu Yao, Weizhi Nie, Pengfei Xu, Jufeng Yang, Kurt Keutzer
   [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413776)]
