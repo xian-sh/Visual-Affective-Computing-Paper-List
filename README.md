@@ -128,20 +128,16 @@
   [[Paper](https://ieeexplore.ieee.org/document/10205008)]  [[Code](https://meta-portrait.github.io/)]
 
 
-* [2023 CVPR] **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**,  
-  [[Paper]( )]  [[Code]( )]
+* [2023 CVPR] **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang, Yu Deng, Zixin Yin, Heung-Yeung Shum, Baoyuan Wang 
+  [[Paper](https://arxiv.org/pdf/2211.14506.pdf)]  [[Code](https://dorniwang.github.io/PD-FGC/)]
 
   
-* [2023 CVPR] **Defending Low-Bandwidth Talking Head Videoconferencing Systems From Real-Time Puppeteering Attacks**,  
-  [[Paper]( )]  [[Code]( )]
+* [2023 CVPR] **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**, Weichuang Li; Longhao Zhang; Dong Wang; Bin Zhao; Zhigang Wang; Mulin Chen; Bang Zhang; Zhongjian Wang; Liefeng Bo; Xuelong Li 
+  [[Paper](https://ieeexplore.ieee.org/document/10203662)]  [[Code](https://www.waytron.net/hidenerf/)]
 
   
-* [2023 CVPR] **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**,  
-  [[Paper]( )]  [[Code]( )]
-
-  
-* [2023 CVPR] **High-Fidelity and Freely Controllable Talking Head video Generation**,  
-  [[Paper]( )]  [[Code]( )]
+* [2023 CVPR] [Microsoft Research] **High-Fidelity and Freely Controllable Talking Head video Generation**, Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu 
+  [[Paper](https://ieeexplore.ieee.org/document/10204552)] 
 
   
 * [2022 CVPR] **Expressive Talking Head Generation with Granular Audio-Visual Control**,  
