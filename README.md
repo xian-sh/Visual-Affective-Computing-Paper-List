@@ -153,6 +153,9 @@
 * [2019 ACM MM] 🔖 [University of Science and Technology of China] 🔖 **Multimodal Deep Denoise Framework for Affective Video Content Analysis**, Yaochen Zhu, Zhenzhong Chen, Feng Wu 
   [[Paper](https://dl.acm.org/doi/10.1145/3343031.3350997)] 
 
+* [2022 Pattern Recognition] 🔖 [Concordia University, Canada] 🔖 **Non-volume preserving-based fusion to group-level emotion recognition on crowd videos**, Kha Gia Quach, Ngan Le, Chi Nhan Duong, Ibsa Jalata, Kaushik Roy, Khoa Luu
+  [[Paper](https://doi.org/10.1016/j.patcog.2022.108646)] 
+
  
 
 ### 🌏 Open-world Video Emotion Spotting
